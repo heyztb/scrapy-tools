@@ -17,6 +17,7 @@ NEWSPIDER_MODULE = 'zillow.spiders'
 #USER_AGENT = 'zillow (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
+# set this to false. Zillow has set up their robots.txt file to include just about every interesting path on the website. It's clear
 ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)

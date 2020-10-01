@@ -1,6 +1,6 @@
 ### Scrapy Tools
 
-Just a few scrapy spiders. Currently, I've got a spider for Zillow (pls no lawsuit) as well as randomphonenumbers.com.
+Just a few scrapy spiders. Currently, I've got a spider for Zillow as well as randomphonenumbers.com.
 
 Usage is pretty simple.
 
